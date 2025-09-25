@@ -1,0 +1,34 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "ball_drop.apk": {
+    "hash": "e270d0a685d44370b6516f429622577e597b5d138c54125e6e00622ae1ee94b4",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "com.mirkoyuridonato.balldrop.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.mirkoyuridonato.balldrop",
+    "versionCode": 1,
+    "name": "Ball Drop",
+    "versionName": "1.0",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 35,
+    "sig": "3c3bcf3c4048412c6a3c3de81f076527",
+    "signer": "d5d75c3e0b1aeab54a232c5ef6ff06548b0756c0355fb0fc974abc3afa17b616",
+    "size": 5697160,
+    "apkName": "ball_drop.apk",
+    "added": 1758817883.317642
+  }
+}

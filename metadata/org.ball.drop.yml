@@ -1,0 +1,12 @@
+Categories:
+  - Games
+License: MIT
+WebSite: https://mirkodonatogames.itch.io/ball-drop
+SourceCode: https://github.com/Mirko-linux/Ball-Drop
+IssueTracker: https://github.com/Mirko-linux/Ball-Drop/issues
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersion: 2.0.0
+Summary: Gioco arcade modulare con badge etici
+Description: |
+  Ball Drop è un gioco arcade open source con asset modulari, badge etici e distribuzione sovrana.
